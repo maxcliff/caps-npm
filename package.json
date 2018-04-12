@@ -1,16 +1,15 @@
 {
-  "name": "exclamation-npm",
-  "version": "1.0.0",
-  "description": "Ends each sentence with an exclamation!",
+  "name": "caps-npm",
+  "version": "2.0.0",
+  "description": "Capitalize each word in your sentences",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxcliff/exclamation-npm.git"
+    "url": "git+https://github.com/maxcliff/caps-npm.git"
   },
   "author": "Max Cliff",
-  
-  "homepage": "https://github.com/maxcliff/exclamation-npm#readme"
+  "homepage": "https://github.com/maxcliff/caps-npm#readme"
 }
