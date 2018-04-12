@@ -1,15 +1,14 @@
-const acronym = require('./');
+const caps = require('./');
 
-acronym('for your information') 
-  .then(data => {
-    console.log(data)
-  }) 
-   .catch(error => {
-     console.log(error)
-   }) 
+caps("it's") 
+    .then(data => {
+      console.log(data)
+    }) 
+    .catch(error => {
+      console.log(error)
+    }) 
   
-
-acronym("for your information")
+caps("over")
   .then(data => {
     console.log(data)
   })
@@ -17,8 +16,7 @@ acronym("for your information")
     console.log(error)
   })
   
-
-acronym('talk to you later')
+caps('nine thousand!!!!')
   .then(data => {
     console.log(data)
   })
