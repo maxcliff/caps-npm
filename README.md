@@ -2,7 +2,7 @@
 
 Takes in sentences and renders each word in all caps `(hey! what's up? => HEY! WHAT'S UP?)`.
 
-### Installation
+### Install
 
 ```
 $ npm install caps-npm
